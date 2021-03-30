@@ -1,5 +1,9 @@
 # E-RationShop
 
+The E-ration Shopping System for ration item shop web application is intended to 
+provide complete solutions for vendors, supplier as well as customers through a single get 
+way using the internet. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
