@@ -3,6 +3,13 @@
 The E-ration Shopping System for ration item shop web application is intended to 
 provide complete solutions for vendors, supplier as well as customers through a single get 
 way using the internet. 
+It will enable vendors to setup online shops, customer to browse 
+through the shop and purchase them online without having to visit the shop physically. This 
+project is an attempt to provide the advantages of online shopping to customers of a real shop.
+It helps buying the products in the shop anywhere through internet by using an application.
+Thus, the customer will get the service of online shopping and home delivery from shop. The 
+administration module will enable a system administrator to add new supplier and maintain 
+various lists of suppliers, product category and delivery boy.
 
 # Getting Started with Create React App
 
