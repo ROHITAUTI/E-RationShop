@@ -1,0 +1,90 @@
+.container{
+   margin-top: 10px;
+   text-align: center;
+}
+
+.main{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 600px;
+   border: solid #ececec 1px;
+   background-color:#ffffff;
+   border-radius: 10px;
+   text-align: center;
+}
+
+
+.main1{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 1000px;
+   border: solid #ececec 1px;
+   background-color:#ffffff;
+   border-radius: 10px;
+}
+
+.copyright {
+   color: #9F9FA5;
+   text-align: center;
+   margin-top: 20px;
+   font-size: smaller;
+ }
+
+ .carousel-inner{
+    display:block;  
+ }
+
+
+
+ .nameColor{
+    color: black;
+ }
+
+ 
+ .nameColor1{
+   color: red;
+}
+ .position{
+    float: right;
+ }
+ 
+ .position1{
+   float: center;
+}
+.row{
+}
+ .payment{
+    margin-top: 150px;
+    margin-bottom: 250px;
+    margin-left: 600px;
+    margin-right: 300px;
+ }
+
+ .product {
+   border: solid #ccc 1px;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: 1px 1px 4px 2px #c4c4c4;
+   box-shadow: 1px 1px 4px 2px #c4c4c4;
+ }
+
+ .footer{
+    background-color: #232F3E;
+    color: #FFFFFF;
+ }
+
+ .nameColor2{
+   color: #FFFFFF;
+}
+
+.btn4 {border-radius: 10px;
+   font-size: 17px;
+   background-color: #e7e7e7; color: black;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}

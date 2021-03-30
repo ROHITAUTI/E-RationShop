@@ -1,0 +1,123 @@
+
+.container{
+   margin-top: 10px;
+   text-align: center;
+}
+.container1{
+   margin-top: 10px;
+   text-align: center;
+   font-size: 30px;
+}
+.main{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 600px;
+   border: solid #ececec 1px;
+   background-color:#9acffa;
+   border-radius: 10px;
+   text-align: center;
+}
+
+
+.main1{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 1000px;
+   border: solid #ececec 1px;
+   background-color:#ffffff;
+   border-radius: 10px;
+}
+
+.copyright {
+   color: #000008;
+   text-align: center;
+   margin-top: 20px;
+   font-size: medium;
+ }
+
+ .carousel-inner{
+    display:block;  
+ }
+
+
+
+ .nameColor{
+    color: rgb(255, 255, 255);
+ }
+
+
+ .cartname{
+    color: rgb(0, 0, 0);
+ }
+ 
+ .nameColor1{
+   color: red;
+}
+.nameColor2{
+   color: rgb(0, 255, 0);
+}
+ .position{
+    float: right;
+ }
+ 
+ .position1{
+   float: center;
+}
+
+ .payment{
+    margin-top: 150px;
+    margin-bottom: 250px;
+    margin-left: 600px;
+    margin-right: 300px;
+ }
+
+ .product {
+   border: solid #ccc 1px;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: 1px 1px 4px 2px #c4c4c4;
+   box-shadow: 1px 1px 4px 2px #c4c4c4;
+ }
+
+ .footer{
+    background-color: #0471f7;
+    color: #FFFFFF;
+ }
+
+ .nameColor2{
+   color: #FFFFFF;
+}
+
+.btn3 {border-radius: 10px;
+   font-size: 17px;
+   background-color: #09f5e1; color: rgb(63, 61, 61);
+   box-shadow: 0 10px 20px 0 rgba(6, 152, 250, 0.2), 0 6px 20px 0 rgba(19, 248, 248, 0.19);}
+
+
+.btn4 {border-radius: 5px;
+   font-size: 20px;
+   background-color: #e7e7e7; color: rgb(63, 61, 61);
+   box-shadow: 0 10px 20px 0 rgba(6, 152, 250, 0.2), 0 6px 20px 0 rgba(19, 248, 248, 0.19);}
+
+   .btn5 {border-radius: 0px;
+      font-size: 17px;
+      background-color: #09f5e1; color: rgb(63, 61, 61);
+      box-shadow: 0 10px 20px 0 rgba(6, 152, 250, 0.2), 0 6px 20px 0 rgba(19, 248, 248, 0.19);}
+
+.row-center{
+   margin-left: 200px;
+}
+.ftcol{
+   color: blue;
+}
+
+.para{
+   text-align: justify;
+}
